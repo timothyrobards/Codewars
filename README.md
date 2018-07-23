@@ -1,12 +1,9 @@
 # Codewars
 
 My Codewars solutions in JavaScript.
-<br /><br />
-*6 kyu*
+<br />
 * [Create Phone Number (6 kyu)](https://www.codewars.com/kata/create-phone-number) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/create-phone-number.js)** 
-
-*8 kyu*
 * [Multiply (8 kyu)](https://www.codewars.com/kata/multiply/) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/multiply.js)** 
 * [Function 1 - hello world (8 kyu)](https://www.codewars.com/kata/function-1-hello-world/) -
