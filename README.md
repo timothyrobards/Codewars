@@ -3,6 +3,9 @@
 My Codewars solutions in JavaScript.
 <br />
 
+* [Create Phone Number (6 kyu)](https://www.codewars.com/kata/create-phone-number) -
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/create-phone-number.js)** 
+<br />
 * [Multiply (8 kyu)](https://www.codewars.com/kata/multiply/) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/multiply.js)** 
 * [Function 1 - hello world (8 kyu)](https://www.codewars.com/kata/function-1-hello-world/) -
