@@ -10,5 +10,7 @@ My Codewars solutions in JavaScript.
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/greet.js)** 
 * [altERnaTIng cAsE <=> ALTerNAtiNG CaSe (8 kyu)](https://www.codewars.com/kata/56efc695740d30f963000557) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/alternating-case.js)** 
+* [Remove exclamation marks (8 kyu)](https://www.codewars.com/kata/remove-exclamation-marks/) -
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/remove-exclamation-marks.js)** 
 
 
