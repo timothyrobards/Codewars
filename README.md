@@ -4,6 +4,8 @@ My Codewars solutions in JavaScript.
 <br />
 * [Create phone number (6 kyu)](https://www.codewars.com/kata/create-phone-number) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/create-phone-number.js)** 
+* [Calculate BMI (8 kyu)](https://www.codewars.com/kata/calculate-bmi) -
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/calculate-bmi.js)** 
 * [Convert a string to an array (8 kyu)](https://www.codewars.com/kata/convert-a-string-to-an-array) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/string-to-array.js)** 
 * [Remove duplicates from list (8 kyu)](https://www.codewars.com/kata/remove-duplicates-from-list/) -
