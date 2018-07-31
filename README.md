@@ -10,6 +10,8 @@ My Codewars solutions in JavaScript.
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/simple-calculator.js)** 
 * [Convert a string to an array (8 kyu)](https://www.codewars.com/kata/convert-a-string-to-an-array) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/string-to-array.js)** 
+* [Find the smallest integer in an array (8 kyu)](https://www.codewars.com/kata/find-the-smallest-integer-in-the-array) -
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/smallest-array-integer.js)** 
 * [Remove duplicates from list (8 kyu)](https://www.codewars.com/kata/remove-duplicates-from-list/) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/remove-duplicates.js)** 
 * [Convert to binary (8 kyu)](http://www.codewars.com/kata/convert-to-binary/) -
