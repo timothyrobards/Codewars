@@ -24,6 +24,8 @@ My Codewars solutions in JavaScript.
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/alternating-case.js)** 
 * [Remove exclamation marks (8 kyu)](https://www.codewars.com/kata/remove-exclamation-marks/) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/remove-exclamation-marks.js)** 
+* [Return the day (8 kyu)](https://www.codewars.com/kata/return-the-day/) -
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/return-the-day.js)** 
 
 
 
