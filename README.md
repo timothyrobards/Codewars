@@ -28,6 +28,8 @@ My Codewars solutions in JavaScript.
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/return-the-day.js)** 
 * [Get planet name by id (8 kyu)](https://www.codewars.com/kata/get-planet-name-by-id/) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/get-planet-name-by-id.js)**  
+* [Even or odd (8 kyu)](https://www.codewars.com/kata/even-or-odd/) -
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/even-or-odd.js)**  
 
 
 
