@@ -32,6 +32,8 @@ My Codewars solutions in JavaScript.
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/even-or-odd.js)**  
 * [Calculate tip (8 kyu)](https://www.codewars.com/kata/tip-calculator/) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/calculate-tip.js)**  
+* [Filter out the geese (8 kyu)](https://www.codewars.com/kata/filter-out-the-geese/) -
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/goose-filter.js)**  
 
 
 
