@@ -30,6 +30,11 @@ My Codewars solutions in JavaScript.
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/get-planet-name-by-id.js)**  
 * [Even or odd (8 kyu)](https://www.codewars.com/kata/even-or-odd/) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/even-or-odd.js)**  
+* [Calculate tip (8 kyu)](https://www.codewars.com/kata/tip-calculator/) -
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/calculate-tip.js)**  
+
+
+
 
 
 
