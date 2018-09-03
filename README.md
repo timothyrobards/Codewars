@@ -42,6 +42,8 @@ My Codewars solutions in JavaScript.
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/remove-first-last-char.js)**
 * [Convert a number to a string (8 kyu)](https://www.codewars.com/kata/convert-a-number-to-a-string) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/convert-num-to-str.js)**
+* [Lost without a map (8 kyu)](https://www.codewars.com/kata/beginner-lost-without-a-map) -
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/lost-without-a-map.js)**
 
 
 
