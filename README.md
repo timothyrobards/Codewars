@@ -38,6 +38,8 @@ My Codewars solutions in JavaScript.
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/calculate-tip.js)**  
 * [Filter out the geese (8 kyu)](https://www.codewars.com/kata/filter-out-the-geese/) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/goose-filter.js)**
+* [Remove first and last character (8 kyu)](https://www.codewars.com/kata/remove-first-and-last-character) -
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/remove-first-last-char.js)**
 
 
 
