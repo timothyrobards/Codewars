@@ -46,6 +46,8 @@ My Codewars solutions in JavaScript.
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/lost-without-a-map.js)**
 * [Calculate average (8 kyu)](https://www.codewars.com/kata/calculate-average) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/calculate-average.js)**
+* [Validate code with simple regex (8 kyu)](https://www.codewars.com/kata/validate-code-with-simple-regex) -
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/validate-with-regex.js)**
 
 
 
