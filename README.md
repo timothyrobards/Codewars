@@ -40,6 +40,8 @@ My Codewars solutions in JavaScript.
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/goose-filter.js)**
 * [Remove first and last character (8 kyu)](https://www.codewars.com/kata/remove-first-and-last-character) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/remove-first-last-char.js)**
+* [Convert a number to a string (8 kyu)](https://www.codewars.com/kata/convert-a-number-to-a-string) -
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/convert-num-to-str.js)**
 
 
 
