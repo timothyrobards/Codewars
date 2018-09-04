@@ -48,6 +48,8 @@ My Codewars solutions in JavaScript.
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/calculate-average.js)**
 * [Validate code with simple regex (8 kyu)](https://www.codewars.com/kata/validate-code-with-simple-regex) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/validate-with-regex.js)**
+* [String repeat (8 kyu)](https://www.codewars.com/kata/string-repeat) -
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/string-repeat.js)**
 
 
 
