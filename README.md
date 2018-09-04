@@ -50,6 +50,8 @@ My Codewars solutions in JavaScript.
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/validate-with-regex.js)**
 * [String repeat (8 kyu)](https://www.codewars.com/kata/string-repeat) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/string-repeat.js)**
+* [Remove string spaces (8 kyu)](https://www.codewars.com/kata/remove-string-spaces) -
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/remove-string-spaces.js)**
 
 
 
