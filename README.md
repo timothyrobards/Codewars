@@ -54,6 +54,8 @@ My Codewars solutions in JavaScript.
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/remove-string-spaces.js)**
 * [Sum arrays (8 kyu)](https://www.codewars.com/kata/sum-arrays) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/sum-arrays.js)**
+* [Double char (8 kyu)](https://www.codewars.com/kata/double-char) -
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/double-char.js)**
 
 
 
