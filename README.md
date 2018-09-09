@@ -52,6 +52,8 @@ My Codewars solutions in JavaScript.
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/string-repeat.js)**
 * [Remove string spaces (8 kyu)](https://www.codewars.com/kata/remove-string-spaces) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/remove-string-spaces.js)**
+* [Sum arrays (8 kyu)](https://www.codewars.com/kata/sum-array) -
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/sum-arrays.js)**
 
 
 
