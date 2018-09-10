@@ -7,7 +7,7 @@ My Codewars solutions in JavaScript.
 * [Fizz/Buzz (7 kyu)](https://www.codewars.com/kata/fizz-slash-buzz/) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/fizzbuzz.js)** 
 * [Calculate BMI (8 kyu)](https://www.codewars.com/kata/calculate-bmi) -
-**[solution](https://github.com/timothyrobards/Codewars/blob/master/calculate-bmi.js)** 
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/calculate-bmi.js)**
 * [Correct mistakes of character recognition software (8 kyu)](https://www.codewars.com/kata/correct-the-mistakes-of-the-character-recognition-software) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/correct-mistakes.js)** 
 * [Simple Calculator (8 kyu)](https://www.codewars.com/kata/simple-calculator/) -
