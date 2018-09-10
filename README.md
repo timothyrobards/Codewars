@@ -19,7 +19,7 @@ My Codewars solutions in JavaScript.
 * [Remove duplicates from list (8 kyu)](https://www.codewars.com/kata/remove-duplicates-from-list/) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/remove-duplicates.js)** 
 * [Convert to binary (8 kyu)](http://www.codewars.com/kata/convert-to-binary/) -
-**[solution](https://github.com/timothyrobards/Codewars/blob/master/convert-to-binary.js)** 
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/convert-to-binary.js)**
 * [Multiply (8 kyu)](https://www.codewars.com/kata/multiply/) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/multiply.js)** 
 * [Function 1 - hello world (8 kyu)](https://www.codewars.com/kata/function-1-hello-world/) -
