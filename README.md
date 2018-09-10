@@ -56,6 +56,8 @@ My Codewars solutions in JavaScript.
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/sum-arrays.js)**
 * [Double char (8 kyu)](https://www.codewars.com/kata/double-char) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/double-char.js)**
+* [Opposite number (8 kyu)](https://www.codewars.com/kata/opposite-number) -
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/opposite-number.js)**
 
 
 
