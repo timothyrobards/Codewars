@@ -4,7 +4,7 @@ My Codewars solutions in JavaScript.
 <br />
 * [Create phone number (6 kyu)](https://www.codewars.com/kata/create-phone-number) - 
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/create-phone-number.js)**
-* [Fizz/Buzz (7 kyu)](https://www.codewars.com/kata/fizz-slash-buzz/) -
+* [Fizz/Buzz (7 kyu)](https://www.codewars.com/kata/fizz-slash-buzz/) - 
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/fizzbuzz.js)**
 * [Calculate BMI (8 kyu)](https://www.codewars.com/kata/calculate-bmi) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/calculate-bmi.js)**
