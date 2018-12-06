@@ -1,6 +1,6 @@
 # Codewars 
 
-My Codewars solutions in JavaScript. 
+My Codewars solutions in JavaScript.
 <br />
 * [Create phone number (6 kyu)](https://www.codewars.com/kata/create-phone-number) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/create-phone-number.js)**
