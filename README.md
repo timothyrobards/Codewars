@@ -58,6 +58,8 @@ My Codewars solutions in JavaScript.
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/sum-arrays.js)**
 * [Double char (8 kyu)](https://www.codewars.com/kata/double-char) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/double-char.js)**
+* [Do you speak english (8 kyu)](https://www.codewars.com/kata/do-you-speak-english) -
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/speak-english.js)**
 * [Opposite number (8 kyu)](https://www.codewars.com/kata/opposite-number) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/opposite-number.js)**
 
