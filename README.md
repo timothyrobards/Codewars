@@ -1,4 +1,4 @@
-# Codewars                       
+# Codewars                        
                                  
 My Codewars solutions in JavaScript.                                    
 <br />    
