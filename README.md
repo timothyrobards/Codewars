@@ -31,7 +31,7 @@ My Codewars solutions in JavaScript.
 * [Remove exclamation marks (8 kyu)](https://www.codewars.com/kata/remove-exclamation-marks/) - 
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/remove-exclamation-marks.js)** 
 * [Return the day (8 kyu)](https://www.codewars.com/kata/return-the-day/) -
-**[solution](https://github.com/timothyrobards/Codewars/blob/master/return-the-day.js)** 
+**[solution](https://github.com/timothyrobards/Codewars/blob/master/return-the-day.js)**  
 * [Get planet name by id (8 kyu)](https://www.codewars.com/kata/get-planet-name-by-id/) -
 **[solution](https://github.com/timothyrobards/Codewars/blob/master/get-planet-name-by-id.js)**   
 * [Even or odd (8 kyu)](https://www.codewars.com/kata/even-or-odd/) -
